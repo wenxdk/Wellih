@@ -1,0 +1,15 @@
+link da url do projeto funcionando - https://script.google.com/macros/s/AKfycbzTQ7dfNsNoZzfBDBuHfBQkIxaXHAw7Dr6dYlHROiWB6xHRvtBytsmKxuBw7dwzrQrNMg/exec
+
+Nessa atividade do dia 01/06/2023, aprendemos melhor sobre fixação de um calculo(ou qualquer outra do tipo)aparecer na mesma pagina.
+
+para isso estudamos sobre "google.script.run.withSuccessHandler(exibirMedia).calcularMedia(nota1, peso1, nota2,
+peso2);
+}"
+que vai receber as informações das variaveis e exibir, isso junto do:
+
+}
+"function calcularMedia(nota1, peso1, nota2, peso2){
+var media = ( (nota1*peso1) + (nota2*peso2) ) / (peso1+peso2);
+return media;"
+
+que é o que vai receber e calcular as informações e vai retonar com as respostas sendo exibidas.
