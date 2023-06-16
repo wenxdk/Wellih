@@ -40,3 +40,23 @@ return media;"</h3>
  }else{
     return ('email ou senha inválida');
     <h3>que seria o que retornaria a respostando, dando válida ou inválida os dados enviados
+
+  <h1>Aula dia 15/06/23</h1>
+  <p>Link da atividade:https://script.google.com/macros/s/AKfycbzePA6IZSxtXy2vdsHhXsXgKSimdDCx8l9mXtea1eDsLW8VAD4WxJBaFxS1ztAWRuq_/exec</p>
+
+  <p>Usamos a function getUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url;</p>
+  <p>Serve para pegar a url</p>
+
+  <p>function doPost(e), serve para declara as variaveis com (e)</p>
+
+  <p>SpreadsheetApp.openById, "abre" o id da planilha para localizar onde irão ser jogadas os dados</p>
+
+  <p>planilha.getSheetByName, pega o nome da planilha para localizar o mesmo, para não haver conflito</p>
+
+  <p>tabela.appendRow, vai ler as variaveis do doPost(e)</p>
+
+<h1>Aula dia 16/06/23</h1>
+<p>Nessa aula, usamos os mesmos metodos do dia 15, apenas aumentando a quantidade de labels e inputs</p>
+<p>link:https://script.google.com/macros/s/AKfycbysgfU2p3kahS4r6IyKzUFkv8Qc29mLTMz0oK1TgpNiwkuNpkqXJJQzbzQrMoF3w4MD_g/exec</p>
