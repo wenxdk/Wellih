@@ -8,7 +8,7 @@
   <h3>Aprendemos a manejar melhor a criação de uma tabela, usando javaScript no Visual code, fazendo algumas atividades no mesmo.
     
  <h1>Aprendendo a usar o AppScript
-   <h3>Nessa aula aprendemos a usar o AppsScript, que é melhor que o visual code, pois podemos deixar nossos projetos onlines e para melhorar nossas experiencias com criação de sites.
+   <h3>Nessa aula aprendemos a usar o AppsScript, que é melhor que o visual code, pois podemos deixar nossos projetos onlines e para melhorar nossas experiencias com criação de sites. Aprendi que com o App Script é possível automatizar tarefas demoradas e tediosas, criar integrações que conectam os apps de uso diário e adicionar funcionalidades ou personalizações onde e quando necessário.
      
  <h1> atividade dia 01/06/232</h1>
      <h3>link da url do projeto funcionando</h3> <p>https://script.google.com/macros/s/AKfycbzTQ7dfNsNoZzfBDBuHfBQkIxaXHAw7Dr6dYlHROiWB6xHRvtBytsmKxuBw7dwzrQrNMg/exec</p>
