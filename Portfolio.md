@@ -60,3 +60,9 @@ return media;"</h3>
 <h1>Aula dia 16/06/23</h1>
 <p>Nessa aula, usamos os mesmos metodos do dia 15, apenas aumentando a quantidade de labels e inputs</p>
 <p>link:https://script.google.com/macros/s/AKfycbysgfU2p3kahS4r6IyKzUFkv8Qc29mLTMz0oK1TgpNiwkuNpkqXJJQzbzQrMoF3w4MD_g/exec</p>
+
+<h3> Aula dia 21/06/23</h3>
+
+ <p> A lista de exercícios foi referente aos métodos anteriormente aprendidos, sendo eles os métodos POST e doPost, geralmente utilizados em formulários para enviar dados para determinados caminhos, como pastas ou planilhas criadas pelo usuário. </p>
+
+ <p> Não tenho o link, pois acabei perdendo</p>
